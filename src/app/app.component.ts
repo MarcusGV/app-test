@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app-test';
+
+  test1(){
+    console.log('primer commit')
+  }
+
 }
+
