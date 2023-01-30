@@ -12,5 +12,9 @@ export class AppComponent {
     console.log('primer commit')
   }
 
+  test2(){
+    console.log('branch 3')
+  }
+
 }
 
